@@ -41,6 +41,7 @@ Estudio el segundo curso de DAM y vengo de sistemas: sé montar el equipo, confi
     <td>
       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
       <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
     </td>
   </tr>
   <tr>
@@ -57,8 +58,7 @@ Estudio el segundo curso de DAM y vengo de sistemas: sé montar el equipo, confi
 
 | Proyecto | Stack | Qué hace |
 | --- | --- | --- |
-| [**jairo_tableview**](https://github.com/jairoben/jairo_tableview) | Java · JavaFX | CRUD de personas con tabla editable y persistencia en memoria. |
-| [**jairo_tableview_mariadb**](https://github.com/jairoben/jairo_tableview_mariadb) | Java · JavaFX · MariaDB | El mismo CRUD, pero guardando los datos en una base de datos MariaDB. |
+| [**AgendaFX**](https://github.com/jairoben/jairo_tableview) | Java 21 · JavaFX · SQLite · Maven | Gestor de contactos de escritorio: CRUD, búsqueda en vivo, validación y persistencia real. 22 tests y CI en GitHub Actions. |
 
 ## Formación
 
